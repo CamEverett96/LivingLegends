@@ -10,7 +10,7 @@
             "settings": {
               "text": "USE 30OFF for 30% off! offer ends 12\/20",
               "background_color": "#000000",
-              "announcement_text_color": "#FFFFFF",
+              "announcement_text_color": "#ffffff",
               "link": "shopify:\/\/collections\/all"
             }
           }
@@ -37,21 +37,14 @@
             "type": "link_list",
             "settings": {
               "heading": "Quick links",
-              "menu": "footer"
+              "menu": "menu-footer"
             }
           },
           "0b9ac32f-f80c-4588-ab06-c372ddc4646e": {
             "type": "link_list",
             "settings": {
               "heading": "Quick links",
-              "menu": "footer"
-            }
-          },
-          "6209aadd-e79b-4dcb-84c6-beb1585ac948": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
+              "menu": "main-menu"
             }
           },
           "7dc801c4-3c5b-4c27-9ec4-47de502788a4": {
@@ -65,7 +58,6 @@
         "block_order": [
           "footer-0",
           "0b9ac32f-f80c-4588-ab06-c372ddc4646e",
-          "6209aadd-e79b-4dcb-84c6-beb1585ac948",
           "7dc801c4-3c5b-4c27-9ec4-47de502788a4"
         ],
         "settings": {
