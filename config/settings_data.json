@@ -4,6 +4,20 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
+        "blocks": {
+          "77412f1d-7cb7-40de-be4d-8182e75884b9": {
+            "type": "announcement",
+            "settings": {
+              "text": "USE 30OFF for 30% off! offer ends 12\/20",
+              "background_color": "#000000",
+              "announcement_text_color": "#FFFFFF",
+              "link": "shopify:\/\/collections\/all"
+            }
+          }
+        },
+        "block_order": [
+          "77412f1d-7cb7-40de-be4d-8182e75884b9"
+        ],
         "settings": {
         }
       },
