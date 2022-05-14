@@ -16,42 +16,6 @@
         "button_link2": "shopify:\/\/collections\/hair"
       }
     },
-    "1628451142ba22e7a3": {
-      "type": "hero-one",
-      "blocks": {
-        "1628451142ba22e7a3-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Title",
-            "title_size": "md"
-          }
-        },
-        "1628451142ba22e7a3-1": {
-          "type": "paragraph",
-          "settings": {
-            "paragraph": "Example message I ' m baby kogi cardigan kitsch hammock banjo. Typewriter viral man braid hot chicken, farm-to-table fashion axe intelligentsia lomo green juice ramps irony succulents."
-          }
-        },
-        "1628451142ba22e7a3-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1628451142ba22e7a3-0",
-        "1628451142ba22e7a3-1",
-        "1628451142ba22e7a3-2"
-      ],
-      "settings": {
-        "hero_height": "100vh",
-        "background": "#000000",
-        "opacity": 50,
-        "info_alignment": "center"
-      }
-    },
     "1628451172c00fbb03": {
       "type": "collection-group",
       "blocks": {
@@ -90,6 +54,43 @@
         "lg_col": "col-lg-4",
         "md_col": "col-md-4",
         "sm_col": "col-sm-2"
+      }
+    },
+    "1628451142ba22e7a3": {
+      "type": "hero-one",
+      "blocks": {
+        "1628451142ba22e7a3-0": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "title_size": "md"
+          }
+        },
+        "1628451142ba22e7a3-1": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "Isaiah 61:3 “…to bestow on them a crown of beauty instead of ashes, the oil of joy instead of mourning, and a garment of praise instead of a spirit of despair”.succulents."
+          }
+        },
+        "1628451142ba22e7a3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1628451142ba22e7a3-0",
+        "1628451142ba22e7a3-1",
+        "1628451142ba22e7a3-2"
+      ],
+      "settings": {
+        "hero_height": "100vh",
+        "image": "shopify:\/\/shop_images\/278655029_3060632130824507_3413793609975955921_n.jpg",
+        "background": "#000000",
+        "opacity": 50,
+        "info_alignment": "center"
       }
     },
     "162845116200ef6b93": {
@@ -195,8 +196,8 @@
   },
   "order": [
     "16284512103cad8520",
-    "1628451142ba22e7a3",
     "1628451172c00fbb03",
+    "1628451142ba22e7a3",
     "162845116200ef6b93",
     "1628451179281ffef6",
     "featured_products",
