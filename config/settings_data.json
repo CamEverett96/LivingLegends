@@ -39,10 +39,34 @@
               "heading": "Quick links",
               "menu": "footer"
             }
+          },
+          "0b9ac32f-f80c-4588-ab06-c372ddc4646e": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
+          },
+          "6209aadd-e79b-4dcb-84c6-beb1585ac948": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
+          },
+          "7dc801c4-3c5b-4c27-9ec4-47de502788a4": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
           }
         },
         "block_order": [
-          "footer-0"
+          "footer-0",
+          "0b9ac32f-f80c-4588-ab06-c372ddc4646e",
+          "6209aadd-e79b-4dcb-84c6-beb1585ac948",
+          "7dc801c4-3c5b-4c27-9ec4-47de502788a4"
         ],
         "settings": {
           "footer_p": "Join our newsletter!",
