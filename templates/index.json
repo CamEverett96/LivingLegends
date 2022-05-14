@@ -104,13 +104,15 @@
       "type": "hero-two",
       "settings": {
         "hero_height": "50vh",
+        "image1": "shopify:\/\/shop_images\/s271719889834910354_p49_i1_w308.webp",
         "background1": "#000000",
         "opacity1": 50,
-        "button_label1": "Button label",
-        "button_link1": "",
+        "button_label1": "GLAM GLUE",
+        "button_link1": "shopify:\/\/products\/glam-glue",
+        "image2": "shopify:\/\/shop_images\/2021-05-22_21-25-42_1621736771.webp",
         "background2": "#000000",
         "opacity2": 50,
-        "button_label2": "Button label",
+        "button_label2": "GLAM BRAIDS",
         "button_link2": ""
       }
     },
