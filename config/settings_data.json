@@ -1,5 +1,6 @@
 {
   "current": {
+    "header_transparent": true,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",

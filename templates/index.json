@@ -1,5 +1,21 @@
 {
   "sections": {
+    "16284512103cad8520": {
+      "type": "hero-two",
+      "settings": {
+        "hero_height": "100vh",
+        "image1": "shopify:\/\/shop_images\/278851587_563127134998341_8665836834578211730_n_e17e871e-56af-4267-b25a-567cff450a64.jpg",
+        "background1": "#000000",
+        "opacity1": 50,
+        "button_label1": "Bundles",
+        "button_link1": "shopify:\/\/collections\/hair",
+        "image2": "shopify:\/\/shop_images\/278672313_357384646447110_6716089101064190073_n.jpg",
+        "background2": "#000000",
+        "opacity2": 50,
+        "button_label2": "wigs",
+        "button_link2": "shopify:\/\/collections\/hair"
+      }
+    },
     "1628451142ba22e7a3": {
       "type": "hero-one",
       "blocks": {
@@ -122,20 +138,6 @@
         "show_vendor": false
       }
     },
-    "16284512103cad8520": {
-      "type": "hero-two",
-      "settings": {
-        "hero_height": "50vh",
-        "background1": "#000000",
-        "opacity1": 50,
-        "button_label1": "Button label",
-        "button_link1": "",
-        "background2": "#000000",
-        "opacity2": 50,
-        "button_label2": "Button label",
-        "button_link2": ""
-      }
-    },
     "1628451261173d995f": {
       "type": "collection-products-1",
       "settings": {
@@ -192,12 +194,12 @@
     }
   },
   "order": [
+    "16284512103cad8520",
     "1628451142ba22e7a3",
     "1628451172c00fbb03",
     "162845116200ef6b93",
     "1628451179281ffef6",
     "featured_products",
-    "16284512103cad8520",
     "1628451261173d995f",
     "16284512746d6f5dbd"
   ]
