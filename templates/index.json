@@ -134,45 +134,13 @@
         "sm_col": "col-sm-6"
       }
     },
-    "featured_products": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products",
-        "collection": "",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_vendor": false
-      }
-    },
-    "1628451261173d995f": {
-      "type": "collection-products-1",
-      "settings": {
-        "collection": "",
-        "total_products": 16,
-        "container_shape": "rectangle",
-        "image_fit": "cover",
-        "background": "#edeff5",
-        "opacity": 100,
-        "show_title": true,
-        "show_price": true,
-        "xxl_col": "col-xxl-3",
-        "xl_col": "col-xl-3",
-        "lg_col": "col-lg-3",
-        "md_col": "col-md-3",
-        "sm_col": "col-sm-6"
-      }
-    },
     "16284512746d6f5dbd": {
       "type": "hero-one",
       "blocks": {
         "16284512746d6f5dbd-0": {
           "type": "heading",
           "settings": {
-            "title": "Title",
+            "title": "JOIN US!",
             "title_size": "md"
           }
         },
@@ -185,7 +153,7 @@
         "16284512746d6f5dbd-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "JOIN",
             "button_link": ""
           }
         }
@@ -197,6 +165,7 @@
       ],
       "settings": {
         "hero_height": "50vh",
+        "image": "shopify:\/\/shop_images\/278551674_397882805232040_5997944673102412270_n_1.jpg",
         "background": "#000000",
         "opacity": 50,
         "info_alignment": "center"
@@ -209,8 +178,6 @@
     "1628451142ba22e7a3",
     "162845116200ef6b93",
     "1628451179281ffef6",
-    "featured_products",
-    "1628451261173d995f",
     "16284512746d6f5dbd"
   ]
 }
