@@ -22,38 +22,45 @@
         "1628451172c00fbb03-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "bundles"
           }
         },
         "1628451172c00fbb03-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "glam-glue"
           }
         },
         "1628451172c00fbb03-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "merch"
+          }
+        },
+        "c7be0a30-389d-4b85-b4b7-263e76c10463": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "frontals"
           }
         }
       },
       "block_order": [
         "1628451172c00fbb03-0",
         "1628451172c00fbb03-1",
-        "1628451172c00fbb03-2"
+        "1628451172c00fbb03-2",
+        "c7be0a30-389d-4b85-b4b7-263e76c10463"
       ],
       "settings": {
-        "container_shape": "square",
+        "container_shape": "rectangle",
         "image_fit": "contain",
         "background": "#ffffff",
         "opacity": 100,
         "show_title": true,
-        "xxl_col": "col-xxl-4",
-        "xl_col": "col-xl-4",
-        "lg_col": "col-lg-4",
+        "xxl_col": "col-xxl-3",
+        "xl_col": "col-xl-3",
+        "lg_col": "col-lg-3",
         "md_col": "col-md-4",
-        "sm_col": "col-sm-2"
+        "sm_col": "col-sm-6"
       }
     },
     "1628451142ba22e7a3": {
