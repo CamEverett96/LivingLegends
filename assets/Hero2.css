@@ -107,7 +107,7 @@
     margin-bottom: 2rem
 }
 
-.hero2__buttonL,.hero2__buttonR {
+.hero2__buttonL ,.hero2__buttonR {
     padding: 15px 30px;
     background: transparent;
     text-align: center;
@@ -121,9 +121,10 @@
     transition: all .3s ease-in-out
 }
 
-.hero2__buttonL,.hero2__buttonR:hover {
+.hero2__buttonL ,
+.hero2__buttonR:hover {
     background: #fff;
-    color: #000
+    color: #000;
 }
 @media screen and (max-width: 768px) {
     .hero2__buttonL{ 
