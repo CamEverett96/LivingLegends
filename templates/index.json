@@ -157,7 +157,7 @@
       "type": "collection-products-1",
       "settings": {
         "collection": "hair",
-        "total_products": 14,
+        "total_products": 8,
         "container_shape": "rectangle",
         "image_fit": "contain",
         "background": "#ffffff",
