@@ -66,3 +66,54 @@
     font-size: 2rem;
     font-family: "Bebas Neue", cursive
 }
+@media (max-width: 770px) {
+    .header3 a {
+        display: none;
+   }
+    .header3__logo span {
+        font-size: 2rem;
+        font-family: 'Bebas Neue', cursive;
+        display: flex;
+        color: #e9e9e9;
+        justify-content: center;
+        align-items: left;
+        transform: translate(-150%);
+   }
+    .open-mobile-menu .fa-bars {
+        display: block;
+        color: #e9e9e9;
+        margin-right: 20px;
+   }
+}
+@media (max-width: 683px) {
+    .header3 a {
+        display: none;
+   }
+    .header3__logo span {
+        font-size: 2rem;
+        font-family: 'Bebas Neue', cursive;
+        display: flex;
+        color: #e9e9e9;
+        justify-content: center;
+        align-items: left;
+        transform: translate(-70px);
+   }
+    .open-mobile-menu .fa-bars {
+        display: block;
+        color: #e9e9e9;
+   }
+}
+@media (max-width: 600px) {
+    .header3 a {
+        display: none;
+   }
+    .header3__logo span {
+        font-size: 2rem;
+        font-family: 'Bebas Neue', cursive;
+        display: flex;
+        color: #e9e9e9;
+        justify-content: center;
+        align-items: left;
+        transform: translate(-55%);
+   }
+}
