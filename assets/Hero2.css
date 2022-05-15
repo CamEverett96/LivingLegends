@@ -118,7 +118,11 @@
     border: 3px solid rgb(255, 255, 255);
     color: #fff;
     font-size: .8rem;
-    transition: all .3s ease-in-out
+    transition: all .3s ease-in-out;
+}
+.hero2__buttonL:hover {
+    background: #fff;
+    color: #000;
 }
 .hero2__buttonR {
     padding: 15px 30px;
@@ -131,14 +135,11 @@
     border: 3px solid rgb(255, 255, 255);
     color: #fff;
     font-size: .8rem;
-    transition: all .3s ease-in-out
+    transition: all .3s ease-in-out;
 }
 
 
-.hero2__buttonL:hover {
-    background: #fff;
-    color: #000;
-}
+
 .hero2__buttonR:hover {
     background: #fff;
     color: #000;
