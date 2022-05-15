@@ -17,7 +17,7 @@
       {
         "type": "color",
         "id": "header_bg",
-        "default": "#f7f9fd",
+        "default": "transparent",
         "label": "Body Background",
         "info": "This is the background color for the whole site"
       },
