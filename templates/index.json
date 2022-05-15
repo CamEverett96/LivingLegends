@@ -59,7 +59,7 @@
         "xxl_col": "col-xxl-3",
         "xl_col": "col-xl-3",
         "lg_col": "col-lg-3",
-        "md_col": "col-md-4",
+        "md_col": "col-md-3",
         "sm_col": "col-sm-6"
       }
     },
@@ -100,40 +100,6 @@
         "info_alignment": "center"
       }
     },
-    "162845116200ef6b93": {
-      "type": "hero-two",
-      "settings": {
-        "hero_height": "50vh",
-        "image1": "shopify:\/\/shop_images\/s271719889834910354_p49_i1_w308.webp",
-        "background1": "#000000",
-        "opacity1": 50,
-        "button_label1": "GLAM GLUE",
-        "button_link1": "shopify:\/\/products\/glam-glue",
-        "image2": "shopify:\/\/shop_images\/2021-05-22_21-25-42_1621736771.webp",
-        "background2": "#000000",
-        "opacity2": 50,
-        "button_label2": "GLAM BRAIDS",
-        "button_link2": ""
-      }
-    },
-    "1628451179281ffef6": {
-      "type": "collection-products-1",
-      "settings": {
-        "collection": "hair",
-        "total_products": 14,
-        "container_shape": "rectangle",
-        "image_fit": "contain",
-        "background": "#FFFFFF",
-        "opacity": 100,
-        "show_title": true,
-        "show_price": false,
-        "xxl_col": "col-xxl-3",
-        "xl_col": "col-xl-3",
-        "lg_col": "col-lg-3",
-        "md_col": "col-md-3",
-        "sm_col": "col-sm-6"
-      }
-    },
     "16284512746d6f5dbd": {
       "type": "hero-one",
       "blocks": {
@@ -170,14 +136,48 @@
         "opacity": 50,
         "info_alignment": "center"
       }
+    },
+    "162845116200ef6b93": {
+      "type": "hero-two",
+      "settings": {
+        "hero_height": "50vh",
+        "image1": "shopify:\/\/shop_images\/s271719889834910354_p49_i1_w308.webp",
+        "background1": "#000000",
+        "opacity1": 50,
+        "button_label1": "GLAM GLUE",
+        "button_link1": "shopify:\/\/products\/glam-glue",
+        "image2": "shopify:\/\/shop_images\/2021-05-22_21-25-42_1621736771.webp",
+        "background2": "#000000",
+        "opacity2": 50,
+        "button_label2": "GLAM BRAIDS",
+        "button_link2": ""
+      }
+    },
+    "1628451179281ffef6": {
+      "type": "collection-products-1",
+      "settings": {
+        "collection": "hair",
+        "total_products": 8,
+        "container_shape": "rectangle",
+        "image_fit": "contain",
+        "background": "#ffffff",
+        "opacity": 100,
+        "show_title": true,
+        "show_price": false,
+        "xxl_col": "col-xxl-3",
+        "xl_col": "col-xl-3",
+        "lg_col": "col-lg-3",
+        "md_col": "col-md-3",
+        "sm_col": "col-sm-6"
+      }
     }
   },
   "order": [
     "16284512103cad8520",
     "1628451172c00fbb03",
     "1628451142ba22e7a3",
+    "16284512746d6f5dbd",
     "162845116200ef6b93",
-    "1628451179281ffef6",
-    "16284512746d6f5dbd"
+    "1628451179281ffef6"
   ]
 }
