@@ -7723,9 +7723,11 @@ body {
 a:hover {
     color: #f84c4c
 }
-
+.transparent-nav{
+    background: transparent;
+}
 .fixed-nav.transparent-nav .header {
-    background: transparent
+    background: transparent;
 }
 
 .fixed-nav.transparent-nav .header a {
