@@ -1,5 +1,6 @@
 {
   "current": {
+    "header_sticky": true,
     "header_transparent": true,
     "sections": {
       "announcement-bar": {
