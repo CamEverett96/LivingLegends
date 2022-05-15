@@ -107,7 +107,20 @@
     margin-bottom: 2rem
 }
 
-.hero2__buttonL ,.hero2__buttonR {
+.hero2__buttonL {
+    padding: 15px 30px;
+    background: transparent;
+    text-align: center;
+    width: 200px;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 700;
+    border: 3px solid rgb(255, 255, 255);
+    color: #fff;
+    font-size: .8rem;
+    transition: all .3s ease-in-out
+}
+.hero2__buttonR {
     padding: 15px 30px;
     background: transparent;
     text-align: center;
@@ -121,7 +134,11 @@
     transition: all .3s ease-in-out
 }
 
-.hero2__buttonL ,
+
+.hero2__buttonL:hover {
+    background: #fff;
+    color: #000;
+}
 .hero2__buttonR:hover {
     background: #fff;
     color: #000;
