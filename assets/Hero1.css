@@ -101,7 +101,10 @@
     text-decoration: none;
     cursor: pointer;
     font-weight: 700;
-    font-size: .8rem
+    border: 3px solid rgb(255, 255, 255);
+    color: #fff;
+    font-size: .8rem;
+    transition: all .3s ease-in-out;
 }
 .hero2__button:hover {
     background: #fff;
