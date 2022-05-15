@@ -125,7 +125,7 @@
     background: #fff;
     color: #000
 }
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .hero2__buttonL{ 
       width: 120px;
         transform: translate(10%);
@@ -136,7 +136,7 @@
       }
     }
   
-  @media (max-width: 600px) {
+    @media screen and (max-width: 600px) {
     .hero2__buttonL{ 
       width: 120px;
         transform: translate(80%);
