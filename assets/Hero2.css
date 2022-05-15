@@ -107,7 +107,7 @@
     margin-bottom: 2rem
 }
 
-.hero2__button {
+.hero2__buttonL,.hero2__buttonR {
     padding: 15px 30px;
     background: transparent;
     text-align: center;
@@ -115,13 +115,13 @@
     text-decoration: none;
     cursor: pointer;
     font-weight: 700;
-    border: 3px solid rgb(242, 147, 249);
+    border: 3px solid rgb(255, 255, 255);
     color: #fff;
     font-size: .8rem;
     transition: all .3s ease-in-out
 }
 
-.hero2__button:hover {
+.hero2__buttonL,.hero2__buttonR:hover {
     background: #fff;
     color: #000
 }
