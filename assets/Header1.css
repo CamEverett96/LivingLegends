@@ -158,7 +158,7 @@
     .header1 .header1__collection-link{
         display: none;
    }
-    .header1__logo span {
+    .header1__logo {
         font-size: 2rem;
         font-family: 'Bebas Neue', cursive;
         display: flex;
@@ -177,7 +177,7 @@
     .header1 .header1__collection-link {
         display: none;
    }
-    .header1__logo span {
+    .header1__logo {
         font-size: 2rem;
         font-family: 'Bebas Neue', cursive;
         display: flex;
@@ -195,7 +195,7 @@
     .header1 .header1__collection-link {
         display: none;
    }
-    .header1__logo span {
+    .header1__logo {
         font-size: 2rem;
         font-family: 'Bebas Neue', cursive;
         display: flex;
