@@ -174,14 +174,18 @@
    }
    .fa-shopping-cart{
     transform: translate(5rem);
-    float: right;
-    align-items: center;
-    justify-content: center;
     font-size: 1.5rem;
     display: block;
     padding-right: 15px;
     color: #e9e9e9;
 
+   }
+   .fa-user{
+    transform: translate(5rem);
+    font-size: 1.5rem;
+    display: block;
+    padding-right: 15px;
+    color: #e9e9e9;
    }
 }
 @media (max-width: 683px) {
