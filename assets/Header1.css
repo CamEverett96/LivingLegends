@@ -173,8 +173,8 @@
         margin-right: 20px;
    }
    .fa-shopping-cart{
-    transform: translate(75%);
-    
+    transform: translate(100%);
+
    }
 }
 @media (max-width: 683px) {
