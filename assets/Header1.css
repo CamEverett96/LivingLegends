@@ -173,11 +173,11 @@
         margin-right: 20px;
    }
    .fa-shopping-cart{
-    transform: translate(5rem);
+    transform: translate(100%);
     font-size: 1.5rem;
     display: block;
     padding-right: 15px;
-    color: #e9e9e9;
+    color: #8f1c1c;
 
    }
    .fa-user{
@@ -204,6 +204,14 @@
     .open-mobile-menu .fa-bars {
         display: block;
         color: #e9e9e9;
+   }
+   .fa-shopping-cart{
+    transform: translate(100%);
+    font-size: 1.5rem;
+    display: block;
+    padding-right: 15px;
+    color: #501c8f;
+
    }
 }
 @media (max-width: 600px) {
