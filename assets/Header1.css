@@ -173,8 +173,12 @@
         margin-right: 20px;
    }
    .fa-shopping-cart{
-    transform: translate(100px);
-    float: right;
+    transform: translate(5rem);
+float: right;
+align-items: center;
+justify-content: center;
+font-size: 2rem;
+display: flex;
 
    }
 }
