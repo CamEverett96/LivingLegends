@@ -225,7 +225,7 @@
         color: #ecebeb;
         justify-content: center;
         align-items: left;
-        transform: translate(-25%);
+        transform: translate(-20%);
    }
    .fa-shopping-cart{
     transform: translate(115%);
