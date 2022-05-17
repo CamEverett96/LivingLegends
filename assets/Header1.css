@@ -177,9 +177,8 @@
         margin-right: 20px;
         text-align: right;
         transform: translate(400%);
-        position: absolute;
-        top: 0px;
-        right:0px;
+        position: relative;
+    
    }
    .fa-shopping-cart{
     transform: translate(380%);
