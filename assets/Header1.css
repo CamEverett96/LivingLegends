@@ -7,6 +7,7 @@
     padding: 0 10px;
     height: 84px;
     transition: all 0.3s ease-in-out;
+    width:100%
 }
 .header1 a {
     text-decoration: none;
