@@ -176,10 +176,10 @@
         color: #e9e9e9;
         margin-right: 20px;
         text-align: right;
-        transform: translate(300%);
+        transform: translate(400%);
    }
    .fa-shopping-cart{
-    transform: translate(280%);
+    transform: translate(380%);
     font-size: 1.5rem;
     display: block;
     padding-right: 15px;
