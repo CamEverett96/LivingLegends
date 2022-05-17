@@ -178,6 +178,8 @@
         text-align: right;
         transform: translate(400%);
         position: absolute;
+        top: 0px;
+        right:0px
    }
    .fa-shopping-cart{
     transform: translate(380%);
