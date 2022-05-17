@@ -84,7 +84,7 @@
 }
 #mobile-menu .logo a {
     font-size: 2rem;
-    color: white;
+    color: #f2da83;
     text-transform: uppercase;
 }
 #mobile-menu .menu li {
@@ -165,7 +165,7 @@
         font-size: 2rem;
         font-family: 'Bebas Neue', cursive;
         display: flex;
-        color: #e9e9e9;
+        color: #f2da83;
         justify-content: center;
         align-items: left;
         transform: translate(-100%);
@@ -199,7 +199,7 @@
         font-size: 2rem;
         font-family: 'Bebas Neue', cursive;
         display: flex;
-        color: #e9e9e9;
+        color: #f2da83;
         justify-content: center;
         align-items: left;
         transform: translate(-70%);
@@ -225,7 +225,7 @@
         font-size: 2rem;
         font-family: 'Bebas Neue', cursive;
         display: flex;
-        color: #ecebeb;
+        color: #f2da83;
         justify-content: center;
         align-items: left;
         transform: translate(-20%);
