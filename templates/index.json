@@ -69,14 +69,14 @@
         "1628451142ba22e7a3-0": {
           "type": "heading",
           "settings": {
-            "title": "HAIR  QUEENs",
+            "title": "Items of desire",
             "title_size": "md"
           }
         },
         "1628451142ba22e7a3-1": {
           "type": "paragraph",
           "settings": {
-            "paragraph": "Isaiah 61:3 “…to bestow on them a crown of beauty instead of ashes, the oil of joy instead of mourning, and a garment of praise instead of a spirit of despair”.succulents."
+            "paragraph": "View our most popular items!"
           }
         },
         "1628451142ba22e7a3-2": {
@@ -94,7 +94,7 @@
       ],
       "settings": {
         "hero_height": "100vh",
-        "image": "shopify:\/\/shop_images\/278655029_3060632130824507_3413793609975955921_n.jpg",
+        "image": "shopify:\/\/shop_images\/pexels-godisable-jacob-953262.jpg",
         "background": "#000000",
         "opacity": 50,
         "info_alignment": "center"
