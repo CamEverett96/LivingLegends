@@ -133,7 +133,7 @@
         "hero_height": "100vh",
         "image": "shopify:\/\/shop_images\/pexels-daniel-adesina-833052.jpg",
         "background": "#000000",
-        "opacity": 50,
+        "opacity": 40,
         "info_alignment": "left"
       }
     },
