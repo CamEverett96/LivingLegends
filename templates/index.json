@@ -22,7 +22,7 @@
         "e83ddb13-7ffe-4718-b636-2350f6bdce93": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "men"
           }
         },
         "2804bb1d-7cf1-4c25-8880-0a98dd738f13": {
@@ -52,13 +52,13 @@
       ],
       "settings": {
         "container_shape": "square",
-        "image_fit": "contain",
+        "image_fit": "cover",
         "background": "#ffffff",
         "opacity": 100,
         "show_title": true,
         "xxl_col": "col-xxl-3",
         "xl_col": "col-xl-3",
-        "lg_col": "col-lg-3",
+        "lg_col": "col-lg-6",
         "md_col": "col-md-3",
         "sm_col": "col-sm-6"
       }
