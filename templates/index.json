@@ -130,11 +130,11 @@
         "16284512746d6f5dbd-2"
       ],
       "settings": {
-        "hero_height": "50vh",
-        "image": "shopify:\/\/shop_images\/278551674_397882805232040_5997944673102412270_n_1.jpg",
+        "hero_height": "100vh",
+        "image": "shopify:\/\/shop_images\/pexels-daniel-adesina-833052.jpg",
         "background": "#000000",
         "opacity": 50,
-        "info_alignment": "center"
+        "info_alignment": "left"
       }
     },
     "162845116200ef6b93": {
