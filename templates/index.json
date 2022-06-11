@@ -119,8 +119,8 @@
         "16284512746d6f5dbd-2": {
           "type": "button",
           "settings": {
-            "button_label": "JOIN",
-            "button_link": ""
+            "button_label": "Explore",
+            "button_link": "shopify:\/\/collections\/all"
           }
         }
       },
