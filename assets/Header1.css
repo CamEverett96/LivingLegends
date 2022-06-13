@@ -29,6 +29,7 @@
 .header1__collection-link {
     display: inline-block;
     position: relative;
+    color: #9a000f;
     transition: all 0.3s ease-in-out;
 }
 .header1__collection-link .collection-link__sub-links {
