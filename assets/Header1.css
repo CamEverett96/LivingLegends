@@ -12,7 +12,7 @@
 }
 .header1 a {
     text-decoration: none;
-    #9a000f;
+    color: #9a000f;
     font-weight: 500;
 }
 .header1 a:hover {
