@@ -18,29 +18,10 @@
         "enable_filtering": true,
         "enable_sorting": true
       }
-    },
-    "1655130649e8a14e1e": {
-      "type": "collection-products-1",
-      "settings": {
-        "collection": "hair",
-        "total_products": 16,
-        "container_shape": "rectangle",
-        "image_fit": "cover",
-        "background": "#edeff5",
-        "opacity": 100,
-        "show_title": true,
-        "show_price": true,
-        "xxl_col": "col-xxl-3",
-        "xl_col": "col-xl-3",
-        "lg_col": "col-lg-3",
-        "md_col": "col-md-3",
-        "sm_col": "col-sm-6"
-      }
     }
   },
   "order": [
     "banner",
-    "product-grid",
-    "1655130649e8a14e1e"
+    "product-grid"
   ]
 }
