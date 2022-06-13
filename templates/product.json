@@ -1,5 +1,42 @@
 {
   "sections": {
+    "16551288722013e413": {
+      "type": "product-highlight",
+      "blocks": {
+        "1655128872bc4895eb-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Title",
+            "title_size": "md"
+          }
+        },
+        "1655128872bc4895eb-1": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "Example message I ' m baby kogi cardigan kitsch hammock banjo. Typewriter viral man braid hot chicken, farm-to-table fashion axe intelligentsia lomo green juice ramps irony succulents."
+          }
+        },
+        "1655128872bc4895eb-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1655128872bc4895eb-0",
+        "1655128872bc4895eb-1",
+        "1655128872bc4895eb-2"
+      ],
+      "settings": {
+        "hero_height": "100vh",
+        "image": "shopify:\/\/shop_images\/ow-bag.jpg",
+        "background": "#ffffff",
+        "opacity": 50,
+        "info_alignment": "center"
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -75,53 +112,16 @@
       "type": "product-recommendations",
       "settings": {
         "heading": "You may also like",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
         "add_image_padding": false,
         "show_vendor": false
-      }
-    },
-    "16551288722013e413": {
-      "type": "product-highlight",
-      "blocks": {
-        "1655128872bc4895eb-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Title",
-            "title_size": "md"
-          }
-        },
-        "1655128872bc4895eb-1": {
-          "type": "paragraph",
-          "settings": {
-            "paragraph": "Example message I ' m baby kogi cardigan kitsch hammock banjo. Typewriter viral man braid hot chicken, farm-to-table fashion axe intelligentsia lomo green juice ramps irony succulents."
-          }
-        },
-        "1655128872bc4895eb-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1655128872bc4895eb-0",
-        "1655128872bc4895eb-1",
-        "1655128872bc4895eb-2"
-      ],
-      "settings": {
-        "hero_height": "100vh",
-        "image": "shopify:\/\/shop_images\/ow-bag.jpg",
-        "background": "#ffffff",
-        "opacity": 50,
-        "info_alignment": "center"
       }
     }
   },
   "order": [
+    "16551288722013e413",
     "main",
-    "product-recommendations",
-    "16551288722013e413"
+    "product-recommendations"
   ]
 }

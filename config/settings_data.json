@@ -2,6 +2,7 @@
   "current": {
     "header_sticky": true,
     "header_transparent": true,
+    "sale_badge_color_scheme": "background-2",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
