@@ -184,13 +184,13 @@
         "16564326765adc7a6f-1": {
           "type": "paragraph",
           "settings": {
-            "paragraph": "Example message I ' m baby kogi cardigan kitsch hammock banjo. Typewriter viral man braid hot chicken, farm-to-table fashion axe intelligentsia lomo green juice ramps irony succulents."
+            "paragraph": "Shop our clearance section!"
           }
         },
         "16564326765adc7a6f-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Shop",
             "button_link": ""
           }
         }
