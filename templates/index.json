@@ -158,8 +158,8 @@
       "settings": {
         "collection": "adidas",
         "total_products": 16,
-        "container_shape": "rectangle",
-        "image_fit": "contain",
+        "container_shape": "square",
+        "image_fit": "cover",
         "background": "#FFFFFF",
         "opacity": 100,
         "show_title": true,
