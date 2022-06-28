@@ -70,7 +70,7 @@
 							<button @click="addToCart" class="product-highlight__button">
 								{% assign button_title = block.settings.button_label | escape %}
 								{% assign product_url = block.settings.button_link  %}
-								 ${ button_title } </button>
+								 ${{ button_title }} </button>
 							{%- endif -%}
 					{%- endcase -%}
 				{%- endfor -%}
