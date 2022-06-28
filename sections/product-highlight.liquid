@@ -69,7 +69,7 @@
 							{%- if block.settings.button_label != blank -%}
 							<button @click="addToCart" class="product-highlight__button">
 								{% assign button_title = block.settings.button_label | escape %}
-								{% assign product_url = block.settings.button_link  %}
+								{% assign product_url = block.settings.button_link | escape %}
 								 ${{ button_title }} </button>
 							{%- endif -%}
 					{%- endcase -%}
