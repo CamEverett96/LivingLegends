@@ -74,9 +74,11 @@
   </ul>
 
 
+ <div class="open-mobile-menu">
+    <i class="fas fa-bars"></i>
+</div>
 
-
-<section id="mobile-menu"  class="">
+{% comment %} <section id="mobile-menu"  class="">
 <ul class="menu">
   <li class="link">
     <a href="#">Men</a>
@@ -94,7 +96,10 @@
       </div>
   </li>
 </ul>
-<div class="header1__logo">
+<div class="logo">
+  <div class="close-mobile-menu">
+    <i class="fas fa-times"></i>
+  </div>
   <a href="{{ routes.root_url }}">
     {%- if section.settings.logo != blank -%}
     {%- assign image_size = section.settings.logo_width | append: 'x' -%}
@@ -125,7 +130,7 @@
   </div>
   </li>
 </ul>
-</section>
+</section> {% endcomment %}
 </header>
 
 
