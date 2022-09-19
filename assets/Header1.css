@@ -201,6 +201,7 @@
 @media (max-width: 684px) {
     .header1 .header1__collection-link {
         display: none;
+        visibility: hidden;
    }
     .header1__logo {
         font-size: 2rem;
@@ -226,31 +227,5 @@
    }
 }
 @media (max-width: 600px) {
-    .header1 header{
-        display: none;
-        width: 100%;
-        justify-content: space-between;
-   }
-    .header1__logo {
-        font-size: 2rem;
-        font-family: 'Bebas Neue', cursive;
-        display: flex;
-        color: #0ad1f8;
-        justify-content: center;
-        align-items: left;
-        transform: translate(60% , 0%);
-   }
-   .fa-shopping-cart{
-    /* transform: translate(115%); */
-    font-size: 1.7rem;
-    display: block;
-    padding-right: 15px;
-    color:#00219a;
-
-   }
-   .open-mobile-menu .fa-bars {
-    display: block;
-    color:#9a000f;
   
-}
 }
