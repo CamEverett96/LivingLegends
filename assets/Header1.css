@@ -160,10 +160,10 @@
     color: #e9e9e9;
 } 
 @media (max-width: 820px) {
-    .header1 {
+    .mb_header1 {
         width:100%;
    }
-    .header1__logo {
+    .mb_header1__logo {
         font-size: 2rem;
         font-family: 'Bebas Neue', cursive;
         display: flex;
@@ -199,11 +199,11 @@
    }
 }
 @media (max-width: 684px) {
-    .header1 .header1__collection-link {
+    .mb_header1 .header1__collection-link {
         display: none;
         visibility: hidden;
    }
-    .header1__logo {
+    .mb_header1__logo {
         font-size: 2rem;
         font-family: 'Bebas Neue', cursive;
         display: flex;
