@@ -3,9 +3,6 @@
   {{ 'Header1.css' | asset_url | stylesheet_tag }}
 <!-- STARTING HEADER 1 -->
 <header class="header header1">
-  <div class="open-mobile-menu">
-    <i class="fas fa-bars"></i>
-</div>
   <ul class="header1__collections-nav">
     {%- if section.settings.menu != blank -%}
     {%- for link in section.settings.menu.links -%}
@@ -75,10 +72,13 @@
 
   </ul>
 
-
- <div class="open-mobile-menu">
+  
+  <div class="open-mobile-menu">
     <i class="fas fa-bars"></i>
 </div>
+
+
+
 
 {% comment %} <section id="mobile-menu"  class="">
 <ul class="menu">
