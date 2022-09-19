@@ -61,9 +61,7 @@
     {%- endfor -%}
     {%- endif %}
 
-    <a class="open-mobile-menu">
-      <i class="fas fa-bars"></i>
-    </a >
+ 
 
     <a href="{{ routes.cart_url }}">
       <i class="fas fa-shopping-cart"></i>
@@ -75,6 +73,31 @@
     {%- endif -%}
 
   </ul>
+  {% comment %} <header class="mbheader1">
+    <a class="open-mobile-menu">
+      <i class="fas fa-bars"></i>
+    </a >
+    <div class="header1__logo">
+      <a href="{{ routes.root_url }}">
+        {%- if section.settings.logo != blank -%}
+        {%- assign image_size = section.settings.logo_width | append: 'x' -%}
+        <img
+          srcset="{{ section.settings.logo | img_url: image_size }} 1x, {{ section.settings.logo | img_url: image_size, scale: 2 }} 2x"
+          src="{{ section.settings.logo | img_url: image_size }}" loading="lazy" class="header__heading-logo"
+          width="{{ section.settings.logo.width }}" height="{{ section.settings.logo.height }}"
+          alt="{{ section.settings.logo.alt | default: shop.name | escape }}">
+        {%- else -%}
+        {{ shop.name }}
+        {%- endif -%}
+      </a>
+    </div>
+    {%- if shop.customer_accounts_enabled -%}
+      <a href="{%- if customer -%}{{ routes.account_url }}{%- else -%}{{ routes.account_login_url }}{%- endif -%}">
+        <i class="fas fa-user"></i>
+      </a>
+      {%- endif -%}
+
+  </header> {% endcomment %}
 
 
 

@@ -199,11 +199,11 @@
    }
 }
 @media (max-width: 684px) {
-    .mb_header1 .header1__collection-link {
+    .header1 .header1__collection-link {
         display: none;
         visibility: hidden;
    }
-    .mb_header1__logo {
+    .header1__logo {
         font-size: 2rem;
         font-family: 'Bebas Neue', cursive;
         display: flex;
