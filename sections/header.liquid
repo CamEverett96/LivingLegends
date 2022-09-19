@@ -74,9 +74,7 @@
   </ul>
 
 
- <div class="open-mobile-menu">
-    <i class="fas fa-bars"></i>
-</div>
+
 
 <section id="mobile-menu"  class="">
 <ul class="menu">
@@ -96,11 +94,19 @@
       </div>
   </li>
 </ul>
-<div class="logo">
-  <div class="close-mobile-menu">
-    <i class="fas fa-times"></i>
-  </div>
-<a href="#">Storename</a>
+<div class="header1__logo">
+  <a href="{{ routes.root_url }}">
+    {%- if section.settings.logo != blank -%}
+    {%- assign image_size = section.settings.logo_width | append: 'x' -%}
+    <img
+      srcset="{{ section.settings.logo | img_url: image_size }} 1x, {{ section.settings.logo | img_url: image_size, scale: 2 }} 2x"
+      src="{{ section.settings.logo | img_url: image_size }}" loading="lazy" class="header__heading-logo"
+      width="{{ section.settings.logo.width }}" height="{{ section.settings.logo.height }}"
+      alt="{{ section.settings.logo.alt | default: shop.name | escape }}">
+    {%- else -%}
+    {{ shop.name }}
+    {%- endif -%}
+  </a>
 </div>
 <ul class="menu">
   <li class="link">
