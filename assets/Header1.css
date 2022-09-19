@@ -228,6 +228,8 @@
 @media (max-width: 600px) {
     .header1 .header1__collection-link {
         display: none;
+        width: 100%;
+        justify-content: space-between;
    }
     .header1__logo {
         font-size: 2rem;
@@ -236,7 +238,7 @@
         color: #0ad1f8;
         justify-content: center;
         align-items: left;
-        transform: translate(-60%);
+        transform: translate(60% , 0%);
    }
    .fa-shopping-cart{
     /* transform: translate(115%); */
