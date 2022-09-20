@@ -228,14 +228,14 @@
        
    }
    .fa-user{
-    transform: translate(14rem);
+    transform: translate(11rem);
     font-size: 1.7rem;
     display: block;
     color: #e9e9e9;
    }
 }
    .fa-shopping-cart{
-    transform: translate(9em);
+    transform: translate(7em);
     font-size: 1.7rem;
     display: block;
     padding-right: 15px;
