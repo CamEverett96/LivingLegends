@@ -186,7 +186,7 @@
     font-size: 1.5rem;
     display: block;
     padding-right: 15px;
-    color: #befacb;
+    color: #303230;
     width: 100%;
 
    }
@@ -202,6 +202,7 @@
     .header1 .header1__collection-link {
         display: none;
         visibility: hidden;
+        justify-content: space-between;
    }
     .header1__logo {
         font-size: 2rem;
@@ -226,6 +227,4 @@
 
    }
 }
-@media (max-width: 600px) {
-  
-}
+
