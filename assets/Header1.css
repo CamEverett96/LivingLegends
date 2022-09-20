@@ -170,7 +170,7 @@
         color: #b90000;
         justify-content: center;
         align-items: left;
-        transform: translate(-100%);
+        transform: translate(65%);
    }
    .header1 .header1__collection-link {
     display: none;
@@ -219,7 +219,7 @@
         color: #0a75d9;
         padding-right: 0px;
         justify-content: center;
-        transform: translate(70%);
+        transform: translate(65%);
    }
     .open-mobile-menu .fa-bars {
         display: block;
