@@ -187,10 +187,10 @@
     
    }
    .fa-shopping-cart{
-    transform: translate(520%);
+    transform: translate(13em);
     font-size: 1.5rem;
     display: block;
-    padding-right: 15px;
+ 
     color: #303230;
     width: 100%;
 
