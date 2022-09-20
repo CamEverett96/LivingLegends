@@ -196,10 +196,9 @@
 
    }
    .fa-user{
-    transform: translate(5rem);
+    transform: translate(9rem);
     font-size: 1.7rem;
     display: block;
-    padding-right: 15px;
     color: #e9e9e9;
    }
 }
@@ -220,8 +219,7 @@
         color: #0a75d9;
         padding-right: 0px;
         justify-content: center;
-        align-items: left;
-        transform: translate(-70%);
+        transform: translate(70%);
    }
     .open-mobile-menu .fa-bars {
         display: block;
@@ -229,7 +227,7 @@
        
    }
    .fa-shopping-cart{
-    transform: translate(335%);
+    transform: translate(9em);
     font-size: 1.7rem;
     display: block;
     padding-right: 15px;
