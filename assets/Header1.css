@@ -175,8 +175,7 @@
    .header1 .header1__collection-link {
     display: none;
     visibility: hidden;
-    width: 100%;
-    justify-content: space-between;
+  
 }
     .open-mobile-menu .fa-bars {
         display: block;
