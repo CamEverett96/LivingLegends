@@ -204,6 +204,9 @@
    }
 }
 @media (max-width: 684px) {
+    .header1{
+        width: 100%;
+    }
     .header1 .header1__collection-link {
         display: none;
         visibility: hidden;
