@@ -226,6 +226,13 @@
         color: #e9e9e9;
        
    }
+   .fa-user{
+    transform: translate(14rem);
+    font-size: 1.7rem;
+    display: block;
+    color: #e9e9e9;
+   }
+}
    .fa-shopping-cart{
     transform: translate(9em);
     font-size: 1.7rem;
@@ -267,7 +274,7 @@
     color: #e9e9e9;
    }
    .fa-shopping-cart{
-    transform: translate(7.5em);
+    transform: translate(11em);
     font-size: 1.7rem;
     display: block;
     padding-right: 15px;
